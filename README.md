@@ -1,6 +1,4 @@
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4c3d63ce-4877-43ff-b39f-3fce8595f281" />
-<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/48ee1b6c-bc98-4fb3-acf2-8a40b9129f89" />
 
 
 
@@ -9,3 +7,5 @@ The data collection process involves 11 different ADALM-PLUTO Software-Defined R
 Dhakal, R., Kandel, L. N., & Shekhar, P. (2025). Radio Frequency Fingerprinting Authentication for IoT Networks Using Siamese Networks. IoT, 6(3), 47. https://doi.org/10.3390/iot6030047
 
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4c3d63ce-4877-43ff-b39f-3fce8595f281" />
+<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/48ee1b6c-bc98-4fb3-acf2-8a40b9129f89" />
