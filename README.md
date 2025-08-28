@@ -1,6 +1,6 @@
 
-<img width="832" height="769" alt="image" src="https://github.com/user-attachments/assets/4c3d63ce-4877-43ff-b39f-3fce8595f281" />
-<img width="2352" height="1752" alt="image" src="https://github.com/user-attachments/assets/48ee1b6c-bc98-4fb3-acf2-8a40b9129f89" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4c3d63ce-4877-43ff-b39f-3fce8595f281" />
+<img width="1100" height="800" alt="image" src="https://github.com/user-attachments/assets/48ee1b6c-bc98-4fb3-acf2-8a40b9129f89" />
 
 
 
